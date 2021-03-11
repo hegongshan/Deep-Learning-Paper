@@ -13,7 +13,7 @@
 
 ### Attention
 
-* [2015 ICLRR] **Neural Machine Translation by Jointly Learning to Align and Translate**. [[PDF](https://arxiv.org/pdf/1409.0473.pdf)]
+* [2015 ICLR] **Neural Machine Translation by Jointly Learning to Align and Translate**. [[PDF](https://arxiv.org/pdf/1409.0473.pdf)]
 * [2017 NIPS] **Attention is All you Need**. [[PDF](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]
 
 #### Overfitting
