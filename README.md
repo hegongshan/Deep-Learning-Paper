@@ -11,6 +11,11 @@
 * [2015 ICLR] VGG: **Very Deep Convolutional Networks for Large-Scale Image Recognition**. [[PDF](https://arxiv.org/pdf/1409.1556.pdf)]
 * [2016 CVPR] ResNet: **Deep Residual Learning for Image Recognition**. [[PDF](https://arxiv.org/pdf/1512.03385.pdf)]
 
+### Attention
+
+* [2015 ICLRR] **Neural Machine Translation by Jointly Learning to Align and Translate**. [[PDF](https://arxiv.org/pdf/1409.0473.pdf)]
+* [2017 NIPS] **Attention is All you Need**. [[PDF](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]
+
 #### Overfitting
 
 * [2014 JMLR] **Dropout: A Simple Way to Prevent Neural Networks from Overfitting**. [[PDF](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)]
