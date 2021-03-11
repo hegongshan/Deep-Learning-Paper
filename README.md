@@ -1,9 +1,15 @@
-### Deep Learing (DL)
+### Deep Learning (DL)
 
 #### Theory
 
 * [1986 Nature] BP: **Learning representations by back-propagating errors**. [[PDF](https://www.nature.com/articles/323533a0.pdf)]
 * [1989] **Multilayer feedforward networks are universal approximators**.
+
+#####Convolutional Neural Networks (CNNs)
+
+* [2012 NIPS] AlexNet: **ImageNet Classification with Deep Convolutional Neural Networks**. [[PDF](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]
+* [2015 ICLR] VGG: **Very Deep Convolutional Networks for Large-Scale Image Recognition**. [[PDF](https://arxiv.org/pdf/1409.1556.pdf)]
+* [2016 CVPR] ResNet: **Deep Residual Learning for Image Recognition**. [[PDF](https://arxiv.org/pdf/1512.03385.pdf)]
 
 #### Overfitting
 
