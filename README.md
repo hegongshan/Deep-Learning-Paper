@@ -11,7 +11,7 @@
 * [2015 ICLR] VGG: **Very Deep Convolutional Networks for Large-Scale Image Recognition**. [[PDF](https://arxiv.org/pdf/1409.1556.pdf)]
 * [2016 CVPR] ResNet: **Deep Residual Learning for Image Recognition**. [[PDF](https://arxiv.org/pdf/1512.03385.pdf)]
 
-### Attention
+#### Attention
 
 * [2015 ICLR] **Neural Machine Translation by Jointly Learning to Align and Translate**. [[PDF](https://arxiv.org/pdf/1409.0473.pdf)]
 * [2017 NIPS] **Attention is All you Need**. [[PDF](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]
@@ -27,3 +27,4 @@
 * [2012] **rmsprop: Divide the gradient by a running average of its recent magnitude**. [[PDF](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)]
 * [2012 arXiv] **ADADELTA: An Adaptive Learning Rate Method**. [[PDF](https://arxiv.org/pdf/1212.5701.pdf)]
 * [2015 ICLR] **Adam: A Method for Stochastic Optimization**. [[PDF](https://arxiv.org/pdf/1412.6980.pdf)]
+* [2016 arXiv] **An overview of gradient descent optimization algorithms**. [[PDF](https://arxiv.org/pdf/1609.04747.pdf)]
